@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on reverse engineering an application<br>🌱 I’m currently learning RISC-V Assembly and System Verilog<br>💬 Ask me about data engineering related to ETL or the latest AI trends<br>⚡ Fun fact Programming is more than just coding :D
+🔭 I’m currently working on gen AI<br>🌱 I’m currently learning about mainframes and blockchain<br>💬 Ask me about data engineering related to ETL or the latest AI trends<br>⚡ Fun fact Programming is more than just coding :D
 
 
 ### 🔝 Top Contributed Repo
